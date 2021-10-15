@@ -1,5 +1,4 @@
 #! /usr/bin/python
-#Hapus Copyright?Lo Bukan Coder Bro
 
 #masuk tools
 
@@ -31,7 +30,7 @@ print "(+)----------------------------DONE(+)"
 os.system ('sleep 2')
 print " | SELESAI DIBUAT >>   |"
 print "(+)--------------------------------(+)"
-syn = open("syntaxcrew.html","w")
+syn = open("x.html","w")
 syntax = """<html>
 	<head>
 		<title>"""
